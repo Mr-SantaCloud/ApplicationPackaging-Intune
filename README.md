@@ -5,6 +5,6 @@ Edit the "AppDeployToolkitConfig.xml" in the "AppDeployToolkit" folder for loggi
 The line you need to edit is in the XML file is: <br>
 <br>
 <Toolkit_LogPath>$envProgramData\DemoLog\Win32</Toolkit_LogPath> <br>
-<!-- Log path used for Toolkit logging. Change the above ^ path to your desired Win32 app installation log  --> <br>
+<-- Log path used for Toolkit logging. Change the above ^ path to your desired Win32 app installation log  --> <br><br>
 Use the [Microsoft Win32 Content Prep Tool](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool) to create .intunewin from the toolkit. <br>
 Upload the .intunewin file to Intune and you are ready to installation the application on the endpoints. <br>
