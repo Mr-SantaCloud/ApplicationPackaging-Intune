@@ -1,4 +1,4 @@
-**For details and step-by-step guide watch the youtube video: [Interactive Application Deployment for Intune with PSADT](https://www.youtube.com/watch?v=phKeUzU-8qY&t=10s)** <br><br>
+**For details and step-by-step guide watch the youtube video: [Interactive Application Deployment for Intune with PSADT](https://youtu.be/phKeUzU-8qY)** <br><br>
 This is a modified PSADT to get you started with an interactive application installation. By default it prompts end-user to close Microsoft Excel and Word if they are open before the installation can continue. <br>
 To use it, download the repository, replace your setup file with the "setup.exe" in the "Files" folder. <br>
 Edit the "AppDeployToolkitConfig.xml" in the "AppDeployToolkit" folder for logging of the app installation. <br>
